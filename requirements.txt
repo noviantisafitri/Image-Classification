@@ -1,0 +1,7 @@
+matplotlib==3.8.0
+numpy==1.23.5
+pandas==1.5.3
+tensorflow==2.14.0
+tensorflowjs==4.8.0
+pathlib==1.0.1
+google-colab==1.0.0
